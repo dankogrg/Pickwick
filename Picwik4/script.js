@@ -1,4 +1,4 @@
-const floater = document.getElementById("floater");
+const floater = document.getElementById("ati");
 floater.addEventListener("click", scrollToTop)
 floater.style.backgroundColor = "green";
 function scrollToTop(e){
